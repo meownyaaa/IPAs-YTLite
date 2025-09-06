@@ -1,4 +1,4 @@
-# [I would recommend trying out YTLitePlus instead, it has more features.](https://github.com/YTLitePlus/YTLitePlus)
+# ^-w-^
 
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
